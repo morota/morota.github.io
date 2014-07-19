@@ -1,0 +1,26 @@
+Graduate research assistantships in quantitative genetics are 
+available with Gota Morota in the Department of Animal Science 
+at the University of Nebraska-Lincoln (UNL).
+
+Current projects in the Morota lab include developing kernel-based 
+whole-genome prediction and kernel-based genome-wide association models, 
+reexamining the results from quantitative genetics analysis in light of 
+functional annotation, and extending kernel methods (such as GBLUP and RKHS) 
+specifically tailored for diverse types of emerging omics data.
+
+In addition, candidates will be expected to leverage opportunities to 
+interact with faculty in animal genetics and statistics at the UNL 
+in the areas of bioinformatics, breeding, functional genomics, 
+quantitative genetics, and molecular genetics.
+
+Candidates should have a B.S. or M.S. degree in quantitative disciplines 
+with strong background and interest in statistical computing. 
+The starting date can be either Spring 2015 or Fall 2015. 
+For more information about research in the Morota lab at the UNL, visit: www.morotalab.org
+
+A letter of interest in the position, C.V., and contact information for 
+three references should be emailed to Gota Morota at <morota@unl.edu>. 
+Review of applications will begin immediately, and continue until the 
+positions are filled. Informal inquiries are also welcome.
+
+
