@@ -9,7 +9,7 @@ functional annotation, and extending kernel methods (such as GBLUP and RKHS)
 specifically tailored for diverse types of emerging omics data.
 
 In addition, candidates will be expected to leverage opportunities to 
-interact with faculty in animal genetics and statistics at the UNL 
+interact with faculty in animal genetics and biometrics at the UNL 
 in the areas of bioinformatics, breeding, functional genomics, 
 quantitative genetics, and molecular genetics.
 
