@@ -7,7 +7,7 @@ whole-genome prediction and kernel-based genome-wide association models,
 polygenic modeling of binary traits, reexamining the results from 
 quantitative genetics analysis in light of functional annotation, 
 and extending kernel methods (such as GBLUP and RKHS) specifically 
-tailored for diverse types of emerging omic data.
+tailored for diverse types of emerging omics data.
 
 In addition, candidates will be expected to leverage opportunities to 
 interact with faculty in animal genetics and biometrics at the UNL 
