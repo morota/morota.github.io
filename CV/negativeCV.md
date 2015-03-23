@@ -8,7 +8,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Education
 
 ### 2007
-Apply for an MS program @XX - rejected 
+* Apply for an MS program @XX - rejected 
 
 
 ## Professional Positions
@@ -26,10 +26,14 @@ Apply for an MS program @XX - rejected
 ## Grant Proposals
 
 ### 2014
-Apply for the NRI Faculty Research Proposal - Role: Co-PI - rejected 
+* Apply for the NRI Faculty Research Proposal - Role: Co-PI - rejected 
 
 
 ## Awards and Prizes
+
+### 2015
+* Apply for ISAFG 2015 fellowships - rejected  
+
 
 ### 2013
 * Apply for the Technical University of Munich Research Opportunities Week - rejected 
