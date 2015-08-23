@@ -1,0 +1,92 @@
+---
+title: "A note on Bioconductor"
+output:
+  BiocStyle::html_document:
+    toc: false
+---
+This is an HTML document generated via R markdown along with [BiocStyle](http://bioconductor.org/packages/release/bioc/html/BiocStyle.html). 
+This package was introduced in [October 2014](http://www.bioconductor.org/help/newsletters/2014_October/
+) Bioconductor Newsletter. 
+
+# Resources
+
+### Materials 
+* [Course materials](http://www.bioconductor.org/help/course-materials/)
+* [YouTube Bioconductor channel](https://www.youtube.com/user/bioconductor/)
+* [Events](http://www.bioconductor.org/help/events/)
+* [HT Sequence Analysis with R and Bioconductor](http://manuals.bioinformatics.ucr.edu/home/ht-seq)
+* [Welcome to a Little Book of R for Bioinformatics!](http://a-little-book-of-r-for-bioinformatics.readthedocs.org/en/latest/index.html)
+* [ggbio - Visualize genomic data](http://www.sthda.com/english/wiki/ggbio-visualize-genomic-data)
+
+### News
+* [Bioconductor Newsletter](http://www.bioconductor.org/help/newsletters/)
+* [Annual Reports](http://bioconductor.org/about/annual-reports/)
+
+### Bioconductor Publications
+* [Software for Computing and Annotating Genomic Ranges](https://dx.doi.org/10.1371/journal.pcbi.1003118)
+* [Scalable Genomics with R and Bioconductor](http://projecteuclid.org/euclid.ss/1408368572)
+* [Bioconductor channel in F1000Research](http://f1000research.com/channels/bioconductor)
+
+# Development and Daily build system
+* Software and Annotation data packages are build daily
+* Experiment data packages are build just twice a week: Wednesdays and Saturdays.
+* Bioconductor build/check results is available at [here](http://www.bioconductor.org/checkResults/ 
+) and Build System RSS Feeds is also [available](http://www.bioconductor.org/developers/rss-feeds/). Annotations packages such as GO.db do not have build reports 
+* Search Bioconductor code without downloading packages at [
+Bioconductor Git Mirror](https://github.com/Bioconductor-mirror)
+* Download stats for Bioconductor Software packages are  [here](http://bioconductor.org/packages/stats/)
+* [Dashboard](http://www.bioconductor.org/dashboard/)
+
+# Source code
+To view SVN source code, visit <https://hedgehog.fhcrc.org/bioconductor/trunk/madman/Rpacks/> and type
+```
+username: readonly
+password: readonly
+```
+* There are always two branches of Bioconductor packages. 
+For example, in the 3.0 branch, the `release` packages are accessible at: https://hedgehog.fhcrc.org/bioconductor/branches/RELEASE_3_0/madman/Rpacks/<PKGNAME>
+* The `devel` version of packages are at: https://hedgehog.fhcrc.org/bioconductor/trunk/madman/Rpacks/<PKGNAME>
+* For the `release` version of experiment packages, they are accessible at: https://hedgehog.fhcrc.org/bioc-data/branches/RELEASE_3_0/experiment/pkgs/<PKGNAME>
+* Similarly, the `devel` version of experiment packages are available at: https://hedgehog.fhcrc.org/bioc-data/trunk/experiment/pkgs/<PKGNAME>
+
+# Package handling 
+ 
+### Update
+Update all your packages to their most recent version **within** the current bioconductor release
+```{r eval=FALSE}
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+```
+
+### Upgrade
+Upgrade to the latest version of Bioconductor
+```{r eval=FALSE, echo=TRUE}
+source("http://bioconductor.org/biocLite.R")
+biocLite("BiocUpgrade")
+```
+
+### Use devel version of the package
+If you want to install a package before the new release: 
+```{r eval=FALSE}
+source("http://bioconductor.org/biocLite.R")
+useDevel()
+biocLite("PACKAGENAME")
+```
+
+# Organism packages
+There are no organism-centric genomewide annotation packages (org.XX.eg.db) for horse and sheep as of February 2015. Available domestic animal species are cattle, chiken, and pig. These packages are  anchored at Entrez gene identifiers, but not Ensembl gene identifiers.
+
+
+
+
+# Short URL
+This can be used in publications or grant proposals to reference Bioconductor packages.
+
+* This page [http://bioconductor.org/packages/meshr/](http://bioconductor.org/packages/meshr/) lands on [http://bioconductor.org/packages/release/bioc/html/meshr.html](http://bioconductor.org/packages/release/bioc/html/meshr.html)
+* This page [http://bioconductor.org/packages/release/meshr/](http://bioconductor.org/packages/release/meshr/) lands on [http://bioconductor.org/packages/release/bioc/html/meshr.html](http://bioconductor.org/packages/release/bioc/html/meshr.html)
+* This page [http://bioconductor.org/packages/devel/meshr/](http://bioconductor.org/packages/devel/meshr/) lands on [http://bioconductor.org/packages/devel/bioc/html/meshr.html](http://bioconductor.org/packages/devel/bioc/html/meshr.html)
+* This page [http://bioconductor.org/packages/3.0/meshr/](http://bioconductor.org/packages/3.0/meshr/) lands on [http://bioconductor.org/packages/3.0/bioc/html/meshr.html](http://bioconductor.org/packages/3.0/bioc/html/meshr.html)
+
+---
+
+&copy; 2015 Gota Morota with help from [RStudio](http://www.rstudio.com/) and [BiocStyle](http://bioconductor.org/packages/release/bioc/html/BiocStyle.html)
