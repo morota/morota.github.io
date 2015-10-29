@@ -1,4 +1,4 @@
-This is my negative CV inspired by this [post](http://aidanhorner.blogspot.co.uk/2014/06/my-negative-cv.html). 
+This is my negative CV inspired by this [post](http://aidanhorner.blogspot.co.uk/2014/06/my-negative-cv.html) and this [post](http://chronicle.com/article/MeMy-Shadow-CV/233801). 
 As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 
