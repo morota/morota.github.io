@@ -23,10 +23,18 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 * Submit to BMC Bioinformatics - editorial rejection 
 
 
+
 ## Grant Proposals
 
+### 2016
+NSF IOS-EDGE - Role: Co-PI - rejected 
+
+### 2015
+* AFRI Food Security: Breeding and Genomics of Crops and Livestock (A5161) program  - Role: Co-PI - rejected 
+
 ### 2014
-* Apply for the NRI Faculty Research Proposal - Role: Co-PI - rejected 
+* Apply for the NRI Faculty Research Proposal (internal) - Role: Co-PI - rejected 
+
 
 
 ## Awards and Prizes
