@@ -27,15 +27,15 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2016
-* AFRI-USDA-NIFA Breeding and Phenomics of Food Crops and Animals program - Role: PI - rejected 
-* NSF IOS-EDGE - Role: Co-PI - rejected 
+* AFRI-USDA-NIFA Breeding and Phenomics of Food Crops and Animals program - $959,680 - Role: PI - rejected 
+* NSF IOS-EDGE - $1,340,407 - Role: Co-PI - rejected 
 * NSF-DEB (Evolutionary Processes Cluster, Evolutionary Genetics Program) - Role: Co-PI - rejected 
 
 ### 2015
-* AFRI-USDA-NIFA Global Food Security: Breeding and Genomics of Crops and Livestock (A5161) program  - Role: Co-PI - rejected 
+* AFRI-USDA-NIFA Global Food Security: Breeding and Genomics of Crops and Livestock (A5161) program - $2,994,930 - Role: Co-PI - rejected 
 
 ### 2014
-* NRI Faculty Research Proposal (internal) - Role: Co-PI - rejected 
+* NRI Faculty Research Proposal (internal) -  $99,751 - Role: Co-PI - rejected 
 
 
 ## Awards and Prizes
