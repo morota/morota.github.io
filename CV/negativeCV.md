@@ -28,7 +28,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ### 2017
 * NU Collaboration Initiative Seed Grant / Team Strengthening Seed Grant (internal) - $300,000 - Role: Co-PI - rejected 
-* NSF-DEB - Role: Co-PI - rejected / not invited for a full proposal
+* NSF-IOS (Physiological and Structural Systems Cluster, Symbiosis, Defense & Self-Recognition Program) - Role: Co-PI - rejected / not invited for a full proposal
 
 ### 2016
 * AFRI-USDA-NIFA Breeding and Phenomics of Food Crops and Animals program - $959,680 - Role: PI - rejected 
