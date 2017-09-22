@@ -1,0 +1,18 @@
+Title: Postdoctoral associate position in plant quantitative genetics at the University of Nebraska-Lincoln
+
+An NSF funded postdoctoral research associate position in plant quantitative genetics is available with Dr. Gota Morota at the University of Nebraska-Lincoln (UNL) for a period of one year. The position is renewable upon satisfactory performance up to a maximum of four years. 
+
+The purpose of this position is to develop and implement statistical and computational methods in quantitative genetics to study the genetic and physiological architecture of high nighttime temperature stress in rice and wheat.  
+
+Responsibilities will be oriented toward quantitative genetic analysis of longitudinal high-throughput plant phenomic image data combined with high-dimensional genomic, transcriptomic, and metabolomic data. The projects include, but are not limited to, the following: 1) theoretical development and application of genome-wide association analysis using phenotypic, RNA-seq, and metabolomic data, 2) omics-based phenotypic prediction, and 3) software development in R, Julia, and C++.
+ 
+Oversight for the position will be provided by Dr. Gota Morota (Quantitative Genetics), Dr. Harkamal Walia (Plant Molecular Physiology), and Dr. Qi Zhang (Statistics) at UNL. In addition, candidates are expected to work closely with other collaborators at UNL, Arkansas State University, and Kansas State University. 
+
+Qualifications: Ph.D. in quantitative genetics, statistical genetics, animal breeding, plant breeding, bioinformatics, or other related fields. 
+
+Preferred Skills: Strong background and interest in statistical computing.
+
+A letter of interest in the position, C.V., and contact information for three references should be emailed to Gota Morota <morota@unl.edu>. Review of applications will begin immediately, and continue until the position is filled. Informal inquiries are also welcome.
+
+
+
