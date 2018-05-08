@@ -27,6 +27,8 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2017
+* USDA-NIFA-AFRI Water for Food Production Systems Challenge Area - $1,377,603 - Role: Co-PI - rejected 
+* NSF-Simons Research Centers for Mathematics of Complex Biological Systems - $9,386,965 - Role: Co-PI - rejected 
 * AFRI-USDA-NIFA Animal Health and Production and Animal Products - $382,890 - Role: Co-PI - rejected 
 * NU Collaboration Initiative Seed Grant / Team Strengthening Seed Grant (internal) - $300,000 - Role: Co-PI - rejected 
 * NSF-IOS (Physiological and Structural Systems Cluster, Symbiosis, Defense & Self-Recognition Program) - Role: Co-PI - rejected / not invited for a full proposal
