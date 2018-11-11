@@ -26,6 +26,10 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ## Grant Proposals
 
+### 2018
+NSF EPSCoR RII Track-2 FEC - $1,309,747 - Role: Co-PI - rejected 
+
+
 ### 2017
 * USDA-NIFA-AFRI Water for Food Production Systems Challenge Area - $1,377,603 - Role: Co-PI - rejected 
 * NSF-Simons Research Centers for Mathematics of Complex Biological Systems - $9,386,965 - Role: Co-PI - rejected 
