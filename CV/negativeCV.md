@@ -27,7 +27,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2018
-NSF EPSCoR RII Track-2 FEC - $1,309,747 - Role: Co-PI - rejected 
+* NSF EPSCoR RII Track-2 FEC - $1,309,747 - Role: Co-PI - rejected 
 
 
 ### 2017
