@@ -27,6 +27,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2018
+* DOE EPSCOR - Role: Co-PI - rejected  / not invited for a full proposal
 * NSF EPSCoR RII Track-2 FEC - $1,309,747 - Role: Co-PI - rejected 
 
 
