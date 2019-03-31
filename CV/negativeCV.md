@@ -26,6 +26,12 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ## Grant Proposals
 
+### 2019
+* VT ICTAS Junior Faculty Award - $80,000 - Role: Co-PI - rejected
+* VT ICTAS Targeted Opportunity for Proposals (TOP) program - $115,154 - Role: Co-PI - rejected
+* VT ICTAS Targeted Opportunity for Proposals (TOP) program - $100,000 - Role: Co-PI - rejected
+
+
 ### 2018
 * DOE EPSCOR - Role: Co-PI - rejected  / not invited for a full proposal
 * NSF EPSCoR RII Track-2 FEC - $1,309,747 - Role: Co-PI - rejected 
