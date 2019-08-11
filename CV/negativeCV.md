@@ -19,15 +19,21 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ## Publications
 
+### 2019
+* GSE - rejected 
+* G3 - editorial rejection 
+* G3 - rejection
+
 ### 2012
-* Submit to BMC Bioinformatics - editorial rejection 
+* BMC Bioinformatics - editorial rejection 
 
 
 
 ## Grant Proposals
 
 ### 2019
-* NSF Mathematical Biology - $215,099 - Role: Co-PI - rejected
+* DOE BER Genomics-Enabled Plant Biology for Determination of Gene Function Awards - $311,267.00 - Role: Co-PI - rejected
+* NSF Mathematical Biology - $215,099.00 - Role: Co-PI - rejected
 * VT ICAT SEAD Grant "Smart Ag – Technologies, Data, Interpretation – Advancing Ag through technology innovation" - $25,000 - Role: PI - rejected 
 * VT ICTAS Junior Faculty Award - $80,000 - Role: Co-PI - rejected
 * VT ICTAS Targeted Opportunity for Proposals (TOP) program - $115,154 - Role: Co-PI - rejected
