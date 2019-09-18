@@ -244,6 +244,20 @@ footer {
   }
 }
 
+
+
+
+#left_col {
+  float: left;
+  width: 50%;
+}
+
+#right_col {
+  float: right;
+  width: 50%;
+}
+
+
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
