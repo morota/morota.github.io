@@ -32,6 +32,8 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2019
+* AFRI-USDA-NIFA - Animal Health and Production and Animal Products - $500,000 - Role: Co-PI - rejected 
+* AFRI-USDA-NIFA - Animal Health and Production and Animal Products - $500,000 - Role: Co-PI - rejected 
 * DOE BER Genomics-Enabled Plant Biology for Determination of Gene Function Awards - $311,267.00 - Role: Co-PI - rejected
 * NSF Mathematical Biology - $215,099.00 - Role: Co-PI - rejected
 * VT ICAT SEAD Grant "Smart Ag – Technologies, Data, Interpretation – Advancing Ag through technology innovation" - $25,000 - Role: PI - rejected 
