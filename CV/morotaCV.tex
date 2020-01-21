@@ -4,10 +4,12 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{color}
 \usepackage{multicol}
+\usepackage{multirow}
+\usepackage{array}
 \usepackage{url}
 \newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
 \newcommand\doi[1]{doi:\doilink{#1}}
-
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 
 \oddsidemargin -.5in
 \evensidemargin -.5in
@@ -310,10 +312,24 @@ Quantitative Geneticist (student internship)   \hfill {\bf 06/2013 - 11/2013}\\
 
 
 \section{\sc Peer reviewed journal papers}
-\vspace{0.5cm}
-10 first author, 15 co-author, and 10 senior author publications (23 publications as a PI)\\
+\vspace{1cm}
+%10 first author, 15 co-author, and 10 senior author publications (23 publications as a PI)\\
 % 12 publications prior to becoming a PI
 
+\begin{table}[h!]
+\centering
+  \begin{tabular}{ |c|c|c|c| }
+ \hline
+ & First/Senior author & Co-author & Total \\  \hline
+Refereed Journal Articles  & 20 & 15 & 35 \\  \hline
+Refereed Conference Proceedings & 2 & 5 & 7 \\ \hline 
+Book Chapters & 0 & 0 & 0 \\ \hline
+Total & 22 &  20 & 42 \\ \hline
+  \end{tabular}
+    \caption{Summary of my publications}
+\end{table}
+
+\vspace{5cm}
 \section{\sc 2020}
 \begin{list1}
 
