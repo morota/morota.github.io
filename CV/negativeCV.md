@@ -31,6 +31,10 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ## Grant Proposals
 
+### 2020
+* VT ICTAS Junior Faculty Award - $80,000 - Role: PI - rejected 
+
+
 ### 2019
 * NSF-PGRP - $681,875 - Role: Co-PI - rejected 
 * AFRI-USDA-NIFA - Animal Health and Production and Animal Products - $500,000 - Role: Co-PI - rejected 
