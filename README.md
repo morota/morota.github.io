@@ -1,6 +1,6 @@
 # morota.github.io
 
-Morota Lab at UNL. 
+Morota Lab at VT. 
 
 ---
 
