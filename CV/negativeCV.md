@@ -20,7 +20,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Publications
 
 ### 2019
-* GSE - rejected 
+* GSE - rejection 
 * G3 - editorial rejection 
 * G3 - rejection
 
@@ -28,10 +28,12 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 * BMC Bioinformatics - editorial rejection 
 
 
-
 ## Grant Proposals
 
 ### 2020
+* BSF US-Israel Binational Science Foundation - $100,970 - Role: PI - rejected
+* DP1 NIDDK  - $330,237 -  Role: Co-PI - rejected
+* NIFA-SAS - $9,999,197 - Role: Co-PI - rejected
 * VT ICTAS Junior Faculty Award - $80,000 - Role: PI - rejected 
 
 
