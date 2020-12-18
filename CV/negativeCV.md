@@ -31,6 +31,7 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 ## Grant Proposals
 
 ### 2020
+* NIFA-AFRI-IDEAS - $1,000,000 - Role: Co-PI - rejected 
 * BSF US-Israel Binational Science Foundation - $100,970 - Role: PI - rejected
 * DP1 NIDDK  - $330,237 -  Role: Co-PI - rejected
 * NIFA-SAS - $9,999,197 - Role: Co-PI - rejected
