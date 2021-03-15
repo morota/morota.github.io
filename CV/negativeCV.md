@@ -30,6 +30,9 @@ As Herbert von Karajan mentioned below, rejections are not always bad things.
 
 ## Grant Proposals
 
+### 2021
+* NSF-CPS - $1,000,000 Role: Co-PI - rejected 
+
 ### 2020
 * NIFA-AFRI-IDEAS - $1,000,000 - Role: Co-PI - rejected 
 * BSF US-Israel Binational Science Foundation - $100,970 - Role: PI - rejected
